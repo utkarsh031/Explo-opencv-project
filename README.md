@@ -11,5 +11,6 @@ The Intelligent Human Detection System combines hardware and software components
 2.PIR Sensor
 3.Camera (compatible with OpenCV)
 4.Computer with OpenCV installed
-![Watch the video](http://www.youtube.com/watch?v=taspXMEoZOU)
+![Watch the video](https://www.youtube.com/watch?v=taspXMEoZOU)
+
 
